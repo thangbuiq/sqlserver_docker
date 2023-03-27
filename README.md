@@ -1,6 +1,6 @@
 # `MSSQL_docker_compose`
 
-> :bulb:This template is an example of an "push to GitHub" process document. You can reference and make your process document.
+> :bulb: Cringe cực độ vì Microsoft không thiết kế SQL Management Studio cho Linux? Không sao vì đã có image `sqlserver`!
 
 ## :question: Dành cho ai
 Dành cho những bạn không dùng Windows và muốn học SQL-Server, Repo này sẽ giúp các bạn sử dụng Image `sqlserver` trên **Docker** và host thông qua `localhost`. Từ đó, mọi người có thể connect trực tiếp thông qua SQL-Client như Azure Data Studio hay DBeaver.
@@ -9,6 +9,12 @@ Dành cho những bạn không dùng Windows và muốn học SQL-Server, Repo n
 
 
 1. Cài đặt docker và docker-compose, init sudo cho docker.
+
+> :bulb: 
+> Install Docker, Docker Compose: [Link](https://support.netfoundry.io/hc/en-us/articles/360057865692-Installing-Docker-and-docker-compose-for-Ubuntu-20-04)
+> Install DBeaver: [Link](https://dbeaver.io/download/)
+> Install Azure Data Studio: [Link](https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16&tabs=redhat-install%2Credhat-uninstall)
+
 2. Mở Ctrl + Alt + T để mở Terminal lên và nhập lần lượt
 
 ```
