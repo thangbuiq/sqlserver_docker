@@ -10,10 +10,10 @@ Dành cho những bạn không dùng Windows và muốn học SQL-Server, Repo n
 
 1. Cài đặt docker và docker-compose, init sudo cho docker.
 
-> :bulb: 
-> Install Docker, Docker Compose: [Link](https://support.netfoundry.io/hc/en-us/articles/360057865692-Installing-Docker-and-docker-compose-for-Ubuntu-20-04)
-> Install DBeaver: [Link](https://dbeaver.io/download/)
-> Install Azure Data Studio: [Link](https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16&tabs=redhat-install%2Credhat-uninstall)
+> :bulb:  
+Install Docker, Docker Compose: [Link](https://support.netfoundry.io/hc/en-us/articles/360057865692-Installing-Docker-and-docker-compose-for-Ubuntu-20-04)  
+Install DBeaver: [Link](https://dbeaver.io/download/)  
+Install Azure Data Studio: [Link](https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16&tabs=redhat-install%2Credhat-uninstall)
 
 2. Mở Ctrl + Alt + T để mở Terminal lên và nhập lần lượt
 
