@@ -1,7 +1,3 @@
----
-title: 'MSSQL_docker_compose'
-disqus: thangbuiq
----
 # `MSSQL_docker_compose`
 
 > :bulb:This template is an example of an "push to GitHub" process document. You can reference and make your process document.
