@@ -16,16 +16,16 @@ Install Azure Data Studio: [Link](https://learn.microsoft.com/en-us/sql/azure-da
 
 2. Ctrl + Alt + T để mở Terminal lên và thực hiện:
 
-```
+```bash
 git clone https://github.com/thangbuiq/sqlserver_docker.git
 ```
-```
+```bash
 cd ./sqlserver_docker
 ```
-```
+```bash
 make build
 ```
-```
+```bash
 make up
 ```
 Các bạn có thể thay đổi thông tin của mình trong file `docker-compose.yaml`:
